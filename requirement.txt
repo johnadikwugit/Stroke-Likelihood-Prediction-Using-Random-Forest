@@ -1,18 +1,3 @@
-# ===== Streamlit Stroke Prediction App =====
-# Core web app framework
-streamlit==1.38.0
-
-# Data manipulation
-pandas==2.2.2
-numpy==1.26.4
-
-# Visualisation
-plotly==5.24.1
-matplotlib==3.8.4
-
-# Machine learning and model inference
-scikit-learn==1.3.2
-onnxruntime==1.18.1
 streamlit>=1.36
 pandas>=2.2
 numpy>=1.26
